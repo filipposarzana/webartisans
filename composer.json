@@ -1,0 +1,53 @@
+{
+    "name": "webartisans/utilities",
+    "description": "Utilities for Laravel 4",
+    "version": "0.0.1",
+    "type": "laravel",
+    "keywords": ["laravel", "laravel4", "webartisans", "utilities"],
+    "homepage": "http://webartisans.it",
+    "time": "2013-07-08",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Filippo Sarzana",
+            "email": "filippo@filipposarzana.it"
+        },
+        {
+            "name": "Roberto Falcone",
+            "email": "bob@robertofalcone.it"
+        }
+    ],
+    "support": {
+        "email": "filippo@filipposarzana.it",
+        "issues": "",
+        "forum": "",
+        "wiki": "",
+        "irc": "",
+        "source": ""
+    },
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        
+    },
+    "conflict": {
+        
+    },
+    "replace": {
+        
+    },
+    "provide": {
+        
+    },
+    "suggest": {
+        
+    },
+    "autoload": {
+        "classmap": [],
+        "psr-0": {
+            "Webartisans\\Utilities": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
