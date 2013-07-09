@@ -19,6 +19,7 @@
     ],
     "support": {
         "email": "filippo@filipposarzana.it",
+<<<<<<< HEAD
         "issues": "https://github.com/filipposarzana/webartisans/issues",
         "wiki": "https://github.com/filipposarzana/webartisans/wiki",
         "source": "https://github.com/filipposarzana/webartisans/"
@@ -27,6 +28,16 @@
         "php": ">=5.3.0",
         "laravel/framework": "4.0.*",
         "teepluss/asset": "dev-master"
+=======
+        "issues": "",
+        "forum": "",
+        "wiki": "",
+        "irc": "",
+        "source": ""
+    },
+    "require": {
+        "php": ">=5.3.0"
+>>>>>>> 40191a83aa7b12ac67e8037becebcf19c5755076
     },
     "require-dev": {
         
